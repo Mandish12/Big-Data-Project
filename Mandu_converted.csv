@@ -1,0 +1,7 @@
+VehicleJourneyCode,LineRef,ServiceRef,JourneyPatternRef,DepartureTime,OperatorRef,TicketMachineJourneyCode
+vj_1,LCAC:PC0003576:7:597,PC0003576:7,jp_1,09:35:00,tkt_oid,0935
+vj_2,LCAC:PC0003576:7:597,PC0003576:7,jp_1,11:05:00,tkt_oid,1105
+vj_3,LCAC:PC0003576:7:597,PC0003576:7,jp_2,10:05:00,tkt_oid,1005
+vj_4,LCAC:PC0003576:7:597,PC0003576:7,jp_2,10:35:00,tkt_oid,1035
+vj_5,LCAC:PC0003576:7:597,PC0003576:7,jp_2,11:35:00,tkt_oid,1135
+vj_6,LCAC:PC0003576:7:597,PC0003576:7,jp_3,12:05:00,tkt_oid,1205
